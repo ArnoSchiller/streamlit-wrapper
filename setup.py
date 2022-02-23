@@ -18,5 +18,8 @@ setuptools.setup(
         # If your component has other Python dependencies, list
         # them here.
         "streamlit >= 1.5.1",
+
+        "streamlit-img-label >= 0.1.1",
+        "pascal_voc_writer"
     ],
 )
